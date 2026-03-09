@@ -1,6 +1,5 @@
 
-![Uploading image.png…]()
-
+<img width="624" height="584" alt="Выделение_688" src="https://github.com/user-attachments/assets/cbbf5298-c5f3-48d9-b60c-401113e33c54" />
 
 
 В первую очередь нужно положить файл, соответствующий вашей архитектуре(chan_sip или pjsip) в любой каталог, откуда его сможеть прочитать apache или другой веб-сервер.
